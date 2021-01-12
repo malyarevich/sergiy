@@ -1,3 +1,5 @@
+CV: https://malyarevich.github.io/sergiy/.
+
 Thanks for downloading this template!
 
 Template Name: iPortfolio
